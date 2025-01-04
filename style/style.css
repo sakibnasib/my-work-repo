@@ -1,3 +1,11 @@
 h1{
     background-color: aqua;
 }
+h2{
+    background-color: antiquewhite;
+    margin: 2px solid red;
+    padding: 5px round green;
+}
+div{
+    text-shadow: 10ps green;
+}
